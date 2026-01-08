@@ -1,4 +1,7 @@
 # PraktiCalc Screenshots
+### Version 1.4
+<img alt="Version 1.4" src="https://raw.githubusercontent.com/karl152/PraktiCalcScreenshots/refs/heads/main/PraktiCalc1.4.png" />
+
 ### Version 1.3.2
 <img alt="Version 1.3.1" src="https://raw.githubusercontent.com/karl152/PraktiCalcScreenshots/refs/heads/main/PraktiCalc1.3.2.png" />
 
